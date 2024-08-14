@@ -8,3 +8,11 @@ y = 12
 
 somar = x + y
 print(somar)
+
+subtracao = 12 - 8
+
+print(subtracao)
+
+subtracao = 6 - 15
+
+print(subtracao)
